@@ -47,3 +47,5 @@ La méthode de classification aboutit naturellement à une partition de l'ensemb
 - x > 0 et y < 0: artificialisation faible, dominante habitat
 - x < 0 et y > 0: artificialisation forte, dominante activités
 - x > 0 et y > 0: artificialisatopn forte, dominante habitat
+
+![typo_finale](https://user-images.githubusercontent.com/11749671/170288599-ace1acf5-e39a-49d0-9e34-476de3523b14.png)
